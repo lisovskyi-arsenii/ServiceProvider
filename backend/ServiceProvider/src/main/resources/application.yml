@@ -1,0 +1,5 @@
+#spring.application.name=ServiceProvider
+
+spring:
+  application:
+    name: ServiceProvider
